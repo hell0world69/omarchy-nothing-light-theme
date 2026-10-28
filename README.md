@@ -18,6 +18,9 @@ omarchy theme install https://github.com/hell0world69/omarchy-nothing-light-them
 - `unlock.png` / `preview-unlock.png` — dot-matrix boot-screen logo
   (`omarchy plymouth set-by-theme nothing-light`).
 - `preview.png` — theme picker thumbnail.
+- `icons.theme` — grey folder icons (`Tela-circle-grey`). Install them with
+  `omarchy pkg add tela-circle-icon-theme-grey`; without the package you
+  get the default icons.
 
 ## Optional: dot-matrix bar font
 
