@@ -5,7 +5,7 @@ Bright white theme inspired by Nothing OS: monochrome dot-matrix with a single o
 ## Install
 
 ```
-omarchy theme install <this-repo-url>
+omarchy theme install https://github.com/hell0world69/omarchy-nothing-light-theme
 ```
 
 ## What's inside
